@@ -1,0 +1,5 @@
+﻿  Escitala.cpp
+  cifrado4.cpp
+  Generando código...
+C:\Users\HP\source\repos\cifrado4\cifrado4\Escitala.cpp(27,21): warning C4018:  '<': no coinciden signed/unsigned
+  cifrado4.vcxproj -> C:\Users\HP\source\repos\cifrado4\Debug\cifrado4.exe
