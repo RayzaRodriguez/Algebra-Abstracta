@@ -1,0 +1,9 @@
+﻿  afin.cpp
+c:\users\rayzam\documents\visual studio 2015\projects\cifradoafin\cifradoafin\afin.cpp(48): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\rayzam\documents\visual studio 2015\projects\cifradoafin\cifradoafin\afin.cpp(99): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rayzam\documents\visual studio 2015\projects\cifradoafin\cifradoafin\afin.cpp(110): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  Omitiendo... (no se detectaron cambios relevantes)
+  cifradoAfin.cpp
+  cifradoAfin.vcxproj -> C:\Users\RayzaM\Documents\Visual Studio 2015\Projects\cifradoAfin\Debug\cifradoAfin.exe
+  cifradoAfin.vcxproj -> C:\Users\RayzaM\Documents\Visual Studio 2015\Projects\cifradoAfin\Debug\cifradoAfin.pdb (Full PDB)

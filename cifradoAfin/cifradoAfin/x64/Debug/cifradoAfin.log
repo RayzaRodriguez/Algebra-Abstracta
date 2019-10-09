@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  afin.cpp
+C:\Users\HP\Desktop\cifradoAfin\cifradoAfin\afin.h(11,25): warning C4267:  'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\HP\Desktop\cifradoAfin\cifradoAfin\afin.cpp(48,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\HP\Desktop\cifradoAfin\cifradoAfin\afin.cpp(101,38): warning C4267:  'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  cifradoAfin.cpp
+C:\Users\HP\Desktop\cifradoAfin\cifradoAfin\afin.cpp(112,38): warning C4267:  'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+C:\Users\HP\Desktop\cifradoAfin\cifradoAfin\afin.h(11,25): warning C4267:  'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  cifradoAfin.vcxproj -> C:\Users\HP\Desktop\cifradoAfin\x64\Debug\cifradoAfin.exe
